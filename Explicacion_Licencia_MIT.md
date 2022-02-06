@@ -1,7 +1,7 @@
 **Nombre:** José Roberto Quiñónez Girón  
 **Carné:** 22002759       
   
-## Explicación:    
+## Explicación para usar MIT License:    
 
 Elegí la licencia MIT, porque es la más utilizada en github por sus caracteristicas, tales como:
 
